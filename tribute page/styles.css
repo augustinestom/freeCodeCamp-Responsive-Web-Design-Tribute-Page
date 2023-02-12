@@ -1,0 +1,28 @@
+ img{
+     display:block;
+}
+ #image{
+     max-width:100%;
+     height:auto;
+     margin:auto;
+}
+ h1,#subtitle{
+     text-align:center;
+}
+ body{
+     background-color:#FCE2DD;
+}
+ .time{
+     font-size:25px;
+     background-color:#E1F9A5;
+}
+ #subtitle {
+     font-size:20px;
+}
+ #tribute-info {
+     text-align:center;
+}
+ #img-caption{
+     font-size:25px;
+}
+ 
